@@ -1,5 +1,5 @@
 #import <Foundation/Foundation.h>
-#import <AppAuth/AppAuth.h>
+#import "AppAuth.h"
 
 @protocol RNAppAuthAuthorizationFlowManager <NSObject>
 @required
